@@ -23,7 +23,7 @@ const projects = [
       'Reference-case retrieval to support clinical review',
       'Ongoing exploration of RAG and small language models',
     ],
-    tech: ['Flutter', 'Dart', 'Firebase', 'KNN'],
+    tech: ['Flutter', 'Machine Learning', 'Firebase'],
     note: "A clinical decision-support prototype intended to assist professional review, not replace a qualified clinician's judgment.",
     image: '',
     links: [],
