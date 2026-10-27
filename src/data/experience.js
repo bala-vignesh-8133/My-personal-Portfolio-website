@@ -25,6 +25,30 @@ const experience = [
     ],
   },
   {
+  id: 'ramco-mills',
+  type: 'project',
+  badge: 'Academic project',
+  role: 'AI/ML Project Developer',
+  organization: 'Ramco Mills',
+  period: 'Completed', // Update if the project is ongoing
+  summary:
+    'Developed a Personal Protective Equipment (PPE) detection system using computer vision to identify safety equipment and support workplace safety monitoring.',
+  points: [
+    {
+      text: 'PPE Detection: AI-based detection of personal protective equipment in workplace environments.',
+      status: 'completed',
+    },
+    {
+      text: 'Computer Vision: Applied object detection techniques to identify safety equipment in images or video streams.',
+      status: 'completed',
+    },
+    {
+      text: 'Workplace Safety: Explored automated monitoring to help identify potential PPE compliance issues.',
+      status: 'completed',
+    },
+  ],
+},
+  {
     id: 'digital-grasp',
     type: 'internship',
     badge: 'Internship',
