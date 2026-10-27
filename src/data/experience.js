@@ -7,7 +7,7 @@ const experience = [
     id: 'enbott',
     type: 'project',
     badge: 'Current project experience',
-    role: 'Project Development',
+    role: 'Project intern',
     organization: 'Enbott Technologies',
     period: 'Ongoing',
     summary:
