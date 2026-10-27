@@ -27,7 +27,7 @@ const experience = [
   {
   id: 'ramco-mills',
   type: 'project',
-  badge: 'Academic project',
+  badge: 'Internship',
   role: 'AI/ML Project Developer',
   organization: 'Ramco Mills',
   period: 'Completed', // Update if the project is ongoing
